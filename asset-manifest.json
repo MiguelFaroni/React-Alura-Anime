@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React-Alura-Anime/static/css/main.fe2e27ac.css",
+    "main.js": "/React-Alura-Anime/static/js/main.4a5c2dda.js",
+    "static/media/fundo.png": "/React-Alura-Anime/static/media/fundo.634e6bd472eff6edd80e.png",
+    "index.html": "/React-Alura-Anime/index.html",
+    "main.fe2e27ac.css.map": "/React-Alura-Anime/static/css/main.fe2e27ac.css.map",
+    "main.4a5c2dda.js.map": "/React-Alura-Anime/static/js/main.4a5c2dda.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe2e27ac.css",
+    "static/js/main.4a5c2dda.js"
+  ]
+}
