@@ -6,7 +6,7 @@ function Banner(){
             <header className="banner">
                 <img src="./imagens/1d3t_800.png" alt="Banner principal pagina"/>
             </header>
-            {/* this works */ }
+            
         </>
        
     )
